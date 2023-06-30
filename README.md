@@ -37,6 +37,6 @@
 
 |  No | Projects                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Country Guide](https://github.com/codERSunny812/FetchApi-Project/tree/main/Country%20Guide%20App)                             | [Live Demo](https://jazzy-arithmetic-2f5c0c.netlify.app/)               |
+| 01  | [Country Guide](https://github.com/codERSunny812/FetchApi-Project/tree/main/Country%20Guide%20App)                             | [Live Demo](https://649edf2ecbbd7016bf760e27--astounding-alpaca-c766f1.netlify.app/)               |
 | 02  | [Dictionary App](https://github.com/codERSunny812/FetchApi-Project/tree/main/Dictionary%20App)                             | [Live Demo](https://stirring-concha-200273.netlify.app/)               |
 
