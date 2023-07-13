@@ -8,6 +8,7 @@ btn.addEventListener("click",()=>{
     async function getData(){
         let data = await fetch(Url);
         let value = await data.json();
+        // console.log(value);
         console.log(value[0]);
         console.log(value[0]?.name?.common);
         console.log(value[0]?.capital[0]);
