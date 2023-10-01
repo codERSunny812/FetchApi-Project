@@ -2,7 +2,7 @@ let btn= document.getElementById('Submit-btn');
 const inputCountry=document.getElementById('country-name');
 const resultCont=document.getElementById('result');
 btn.addEventListener("click",()=>{
-    let countryName=inputCountry.value;
+    let countryName=inputCountry.value; //spain
     let Url=`https://restcountries.com/v3.1/name/${countryName}`;
 
     async function getData(){
