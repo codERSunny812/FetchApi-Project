@@ -39,4 +39,8 @@
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Country Guide](https://github.com/codERSunny812/FetchApi-Project/tree/main/Country%20Guide%20App)                             | [Live Demo](https://649edf2ecbbd7016bf760e27--astounding-alpaca-c766f1.netlify.app/)               |
 | 02  | [Dictionary App](https://github.com/codERSunny812/FetchApi-Project/tree/main/Dictionary%20App)                             | [Live Demo](https://stirring-concha-200273.netlify.app/)               |
+| 03  | [Github Profile Viewer](https://github.com/codERSunny812/FetchApi-Project/tree/main/Country%20Guide%20App)                             | [Live Demo](https://649edf2ecbbd7016bf760e27--astounding-alpaca-c766f1.netlify.app/)               |
+| 04  | [Weather App](https://github.com/codERSunny812/FetchApi-Project/tree/main/Country%20Guide%20App)                             | [Live Demo](https://649edf2ecbbd7016bf760e27--astounding-alpaca-c766f1.netlify.app/)               |
+| 02  | [Random Meme Generator](https://github.com/codERSunny812/FetchApi-Project/tree/main/Dictionary%20App)                             | [Live Demo](https://stirring-concha-200273.netlify.app/)               |
+| 03  | [QR Code Maker](https://github.com/codERSunny812/FetchApi-Project/tree/main/Country%20Guide%20App)                             | [Live Demo](https://649edf2ecbbd7016bf760e27--astounding-alpaca-c766f1.netlify.app/)               |
 
