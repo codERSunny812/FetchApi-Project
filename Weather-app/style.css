@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #4c4c4c; /* Suggested background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.centre-box {
+    border: 2px solid red;
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(#c07676, #9198e5);
+}
+
+.search-box {
+    border: 2px solid green;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+#search {
+    border: 2px solid black;
+    height: 29px;
+    border-radius: 25px;
+    width:fit-content;
+    background-color: rgba(255, 255, 255, 0.671);
+    /* Add your styles for the #search element here */
+}
+
+
+.search-box > i{
+    border: 2px solid hotpink;
+    margin-left: 2px ;
+    height: 29px;
+    width: 29px;
+}
