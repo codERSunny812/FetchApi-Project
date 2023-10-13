@@ -4,14 +4,17 @@
 }
 
 body{
-    background-color: #E3B448;
+    background-color: #333333;
+    
 }
 .main-content{
-    /* border: 2px solid black ; */
+    border: 2px solid black ;
     height:fit-content;
     width: 500px;
-    /* margin: auto; */
-   margin: 3% 37% 4% 20%;
+
+   position: absolute;
+   top: 10%;
+   margin: auto;
     padding: 10px;
     background-color: #CBD18F;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
@@ -107,7 +110,7 @@ padding: 10px; /* Add some padding to the container */
 }
 
 .newBox {
-    display: grid;
+    /* display: grid; */
     grid-template-columns: repeat(3, 1fr); /* Create 3 equal-width columns */
     gap: 10px; /* Add some spacing between grid items */
     text-align: center; /* Center-align the text within the grid items */
